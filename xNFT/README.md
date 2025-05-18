@@ -3,7 +3,21 @@ https://github.com/smartcontractkit/ccip-cross-chain-nft
 extraArgsBytes:
 0x97a657c90000000000000000000000000000000000000000000000000000000000030d40
 
+================
 
-xNFT on Ethereum Sepolia: 0xb1cCf745730f5C334A96291850b80409078818B3
+xNFT1 on Ethereum Sepolia: 
 
-xNFT on Base Sepolia: 0x4Fe38a7d48A66215759503Cde8aFd851db4b37b0
+Router: 0x0BF3dE8c5D3e8A2B34D2BEeB17ABfCeBaf363A59
+
+Chain selector: 16015286601757825753
+
+Link Token: 0x779877A7B0D9E8603169DdbD7836e478b4624789
+
+============
+xNFT1 on Arbitrum Sepolia: 
+
+Router: 0x2a9C5afB0d0e4BAb2BCdaE109EC4b0c4Be15a165
+
+Chain selector: 3478487238524512106
+
+Link Token: 0xb1D4538B4571d411F07960EF2838Ce337FE1E80E
