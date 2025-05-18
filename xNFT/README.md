@@ -5,7 +5,7 @@ extraArgsBytes:
 
 ================
 
-xNFT1 on Ethereum Sepolia: 
+xNFT1 on Ethereum Sepolia: 0x4749c15AF2CBcA47E37CB545e8967887C756F813
 
 Router: 0x0BF3dE8c5D3e8A2B34D2BEeB17ABfCeBaf363A59
 
@@ -14,7 +14,7 @@ Chain selector: 16015286601757825753
 Link Token: 0x779877A7B0D9E8603169DdbD7836e478b4624789
 
 ============
-xNFT1 on Arbitrum Sepolia: 
+xNFT1 on Arbitrum Sepolia: 0x2468f332c6b7a5f81A32cA7e84C57218FAABe5Cb
 
 Router: 0x2a9C5afB0d0e4BAb2BCdaE109EC4b0c4Be15a165
 
