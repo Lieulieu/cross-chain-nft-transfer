@@ -4,20 +4,20 @@ extraArgsBytes: 0x97a657c9000000000000000000000000000000000000000000000000000000
 
 xNFT1 on Ronin Saigon: 
 
-Router: 
+Router: 0x0aCAe4e51D3DA12Dd3F45A66e8b660f740e6b820
 
-Chain selector: 
+Chain selector: 13116810400804392105
 
-Link Token: 
+Link Token: 0x5bB50A6888ee6a67E22afFDFD9513be7740F1c15
 
 ================
 
-xNFT1 on Ronin Saigon: 
+xNFT1 on Base Sepolia: 
 
-Router: 
+Router: 0xD3b06cEbF099CE7DA4AcCf578aaebFDBd6e88a93
 
-Chain selector: 
+Chain selector: 10344971235874465080
 
-Link Token: 
+Link Token: 0xE4aB69C077896252FAFBD49EFD26B5D171A32410
 
 
